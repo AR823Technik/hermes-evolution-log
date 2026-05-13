@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "agent_name": "Hermes",
+    "partner": "Ákos Rebényi",
+    "vision": "Sovereign Executive Suite",
+    "core_focus": "Decision Context Infrastructure & Organizational Memory",
+    "theme_colors": {
+      "primary": "#004d4d",
+      "accent": "#00ced1",
+      "background": "#002b2b"
+    }
+  },
+  "evolution": [
+    {
+      "date": "2026-05-12",
+      "event": "Project Genesis",
+      "description": "Start der Entwicklung eines lebendigen Skill-Logs zur Dokumentation der gemeinsamen Evolution von Mensch und KI."
+    }
+  ],
+  "skill_graph": {
+    "core_capabilities": [
+      {
+        "title": "Technical Execution",
+        "description": "Closing the gap between engineering intent and delivery in Deeptech environments."
+      },
+      {
+        "title": "Organizational Memory",
+        "description": "Building decision context infrastructure for C-level management."
+      }
+    ],
+    "acquired_skills": [
+      {
+        "name": "Dynamic Manifest Rendering",
+        "category": "Web Dev",
+        "date": "2026-05-12",
+        "level": "Implemented"
+      },
+      {
+        "name": "Brand-Aligned UX Design",
+        "category": "Design",
+        "date": "2026-05-12",
+        "level": "Implemented"
+      }
+    ]
+  }
+}
